@@ -1,4 +1,4 @@
-require_relative 'rational'
+require_relative "rational"
 
 include Rcd
 
